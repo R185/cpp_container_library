@@ -1,5 +1,0 @@
-if(EXISTS "/home/rreflector/projects/OP/labwork6-R185/build/tests/circular-buffer-lib-tests[1]_tests.cmake")
-  include("/home/rreflector/projects/OP/labwork6-R185/build/tests/circular-buffer-lib-tests[1]_tests.cmake")
-else()
-  add_test(circular-buffer-lib-tests_NOT_BUILT circular-buffer-lib-tests_NOT_BUILT)
-endif()
